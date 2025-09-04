@@ -10,5 +10,7 @@
 
   **brandavista.py** - Bubble plot highlighting Avista customer washer appliance brands by city utilizing ***Pandas, Seaborn, Matplotlib & Mplcursors***.
 
+  **smart-r-val.py** - Multi plot showing ceiling insulation R-values where smart home devices are present within subset of Northwestern United States of America utility customer base. Generates boxplot, plain histogram and KDE (Kernel Density Estimate) plot utilizing ***Pandas, Seaborn & Matplotlib***.
+
 
   
