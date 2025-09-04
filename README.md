@@ -12,5 +12,9 @@
 
   <ins>**smart-r-val.py**</ins> - Multi plot showing ceiling insulation R-values where smart home devices are present within subset of Northwestern United States of America utility customer base. Generates boxplot, plain histogram and KDE (Kernel Density Estimate) plot utilizing ***Pandas, Seaborn & Matplotlib***.
 
+## Excel:
+
+  <ins?**ExportTabstoTxt.bas**</ins> - Exports data from Excel using **VBA** code to create separate text files based on tab name for file name.
+
 
   
