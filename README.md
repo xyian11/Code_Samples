@@ -16,5 +16,7 @@
 
   <ins>**ExportTabstoTxt.bas**</ins> - Exports data from Excel using **VBA** code to create separate text files based on tab name for file name.
 
+  <ins>**Split_Into_Tabs.bas**</ins> - Excel VBA that splits data into tabs by value. In this case, it's a site name that splits the entire dataset into separate tabs.
+
 
   
