@@ -8,5 +8,7 @@
 
   **complexheat.py** - Utility customer heat maps for gas and electric utilities in the Northwestern United States of America. Output gives html sites with zoom and layer functionality.
 
+  **brandavista.py** - Bubble plot highlighting Avista customer washer appliance brands by city utilizing * * Pandas, Seaborn, Matplotlib and Mplcursors.
+
 
   
