@@ -2,7 +2,7 @@
 
 ## Python:
 
-  **brandavista.py** - Bubble plot highlighting Avista customer washer appliance brands by city utilizing ***Pandas, Seaborn, Matplotlib & Mplcursors***.
+  <ins>**brandavista.py**</ins> - Bubble plot highlighting Avista customer washer appliance brands by city utilizing ***Pandas, Seaborn, Matplotlib & Mplcursors***.
 
   **ceilinganalysisavista.py** - Analyzes subset of Avista customer base to highlight ceiling area by construction type, ceiling area by framing material type and ceiling area by insulation type to give them a better understanding of their customer ceiling base utilizing ***Pandas, Seaborn & Matplotlib***.
 
